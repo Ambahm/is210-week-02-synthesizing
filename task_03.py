@@ -6,3 +6,4 @@ VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
 print CHARLIE, VIOLET, PATRICIA, LINUS
+print "Corrected errors, checked using pylint command"
